@@ -29,6 +29,7 @@ You can use any of the following file types:
 ### `.txt` Format:
 Simple list of IPs or CIDR subnets:
 ```
+Name:
 10.170.0.1
 10.170.1.2/30
 192.168.10.10
